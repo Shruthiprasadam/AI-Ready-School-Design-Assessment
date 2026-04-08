@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Ready School Redesign - Audit & Design Decisions
 
 ## Step 1: Audit of current website (www.aireadyschool.com)
@@ -37,3 +38,6 @@
 - **Interactive Product Demos**: Hover-triggered mini-previews for each of the 5 products.
 - **Resource Hub**: A dedicated section for "AI in Education" whitepapers to establish thought leadership.
 - **Dark Mode**: A refined dark theme for a more "Matrix/NEO" technical feel.
+=======
+# AI-Ready-School-Design-Assessment
+>>>>>>> 3635e803ed2bc915a744d934480b392bf76ce7fb
